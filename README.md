@@ -4,6 +4,7 @@ An interactive Bank Loan Report Dashboard built in Excel to analyze loan applica
 ## Data Used
 - <a href="https://github.com/aqsarehman530-commits/Bank_Loan_Project/blob/main/financial_loan%20(1).csv.xlsx">Bank Loan dataSet</a>
 ## PROBLEM STATEMENT
+DASHBOARD 1: SUMMARY
 &quot;In order to monitor and assess our bank&#39;s lending activities and performance, we need to
 create a comprehensive Bank Loan Report. This report aims to provide insights into key
 loan-related metrics and their changes over time. The report will help us make data-driven
@@ -64,3 +65,68 @@ Applications,&#39; &#39;Total Funded Amount,&#39; &#39;Total Amount Received,&#3
 Funded Amount,&#39; &#39;MTD Amount Received,&#39; &#39;Average Interest Rate,&#39; and &#39;Average Debt-to-
 Income Ratio (DTI),&#39; this grid view will empower us to make data-driven decisions and assess
 the health of our loan portfolio.
+DASHBOARD 2: OVERVIEW
+In our Bank Loan Report project, we aim to visually represent critical loan-related metrics
+and trends using a variety of chart types. These charts will provide a clear and insightful
+view of our lending operations, facilitating data-driven decision-making and enabling us to
+gain valuable insights into various loan parameters. Below are the specific chart
+requirements:
+1. Monthly Trends by Issue Date (Line Chart):
+Chart Type: Line Chart
+Metrics: &#39;Total Loan Applications,&#39; &#39;Total Funded Amount,&#39; and &#39;Total Amount Received&#39;
+X-Axis: Month (based on &#39;Issue Date&#39;)
+Y-Axis: Metrics&#39; Values
+Objective: This line chart will showcase how &#39;Total Loan Applications,&#39; &#39;Total Funded
+Amount,&#39; and &#39;Total Amount Received&#39; vary over time, allowing us to identify seasonality and
+long-term trends in lending activities.
+2. Regional Analysis by State (Filled Map):
+Chart Type: Filled Map
+Metrics: &#39;Total Loan Applications,&#39; &#39;Total Funded Amount,&#39; and &#39;Total Amount Received&#39;
+Geographic Regions: StatesObjective: This filled map will visually represent lending metrics categorized by state,
+enabling us to identify regions with significant lending activity and assess regional
+disparities.
+3. Loan Term Analysis (Donut Chart):
+Chart Type: Donut Chart
+Metrics: &#39;Total Loan Applications,&#39; &#39;Total Funded Amount,&#39; and &#39;Total Amount Received&#39;
+Segments: Loan Terms (e.g., 36 months, 60 months)
+Objective: This donut chart will depict loan statistics based on different loan terms, allowing
+us to understand the distribution of loans across various term lengths.
+4. Employee Length Analysis (Bar Chart):
+Chart Type: Bar Chart
+Metrics: &#39;Total Loan Applications,&#39; &#39;Total Funded Amount,&#39; and &#39;Total Amount Received&#39;
+X-Axis: Employee Length Categories (e.g., 1 year, 5 years, 10+ years)
+Y-Axis: Metrics&#39; Values
+Objective: This bar chart will illustrate how lending metrics are distributed among borrowers
+with different employment lengths, helping us assess the impact of employment history on
+loan applications.
+5. Loan Purpose Breakdown (Bar Chart):
+Chart Type: Bar Chart
+Metrics: &#39;Total Loan Applications,&#39; &#39;Total Funded Amount,&#39; and &#39;Total Amount Received&#39;
+X-Axis: Loan Purpose Categories (e.g., debt consolidation, credit card refinancing)
+Y-Axis: Metrics&#39; Values
+Objective: This bar chart will provide a visual breakdown of loan metrics based on the stated
+purposes of loans, aiding in the understanding of the primary reasons borrowers seek
+financing.
+6. Home Ownership Analysis (Tree Map):
+Chart Type: Tree Map
+Metrics: &#39;Total Loan Applications,&#39; &#39;Total Funded Amount,&#39; and &#39;Total Amount Received&#39;
+Hierarchy: Home Ownership Categories (e.g., own, rent, mortgage)
+Objective: This tree map will display loan metrics categorized by different home ownership
+statuses, allowing for a hierarchical view of how home ownership impacts loan applications
+and disbursements.
+These diverse chart types will enhance our ability to visualize and communicate loan-related
+insights effectively, supporting data-driven decisions and strategic planning within our
+lending operations.&quot;
+DASHBOARD 3: DETAILS
+In our Bank Loan Report project, we recognize the need for a comprehensive &#39;Details
+Dashboard&#39; that provides a consolidated view of all the essential information within our loan
+data. This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics
+and data points, enabling users to access critical information efficiently.
+Objective:
+The primary objective of the Details Dashboard is to provide a comprehensive and user-
+friendly interface for accessing vital loan data. It will serve as a one-stop solution for users
+seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
+## Dashboard
+- <a href="https://github.com/aqsarehman530-commits/Bank_Loan_Project/blob/main/2025-08-27.png">Bank Loan dataSet</a>
+
+
